@@ -11,7 +11,7 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 ### 🚦 Confira a grade completa
 
 ### Introdução  
-> ☑️ [Visão geral]()
+> ☑️ [Visão geral]()  
 > ☑️ [Tipos de Estruturas de repetição]()
 
 
