@@ -20,7 +20,3 @@ Assuntos
 - Estruturas condicionais: if-else, switch-case
 - Estruturas de repeticao: for, while, do-while
 - Estruturas de excecoes: try-catch-finally, throw
-
-
-
-
